@@ -7,7 +7,8 @@ I'm a student interested in open source technology.
 Philosophy
 ----------
 
-I support the Free Software Movement because I believe that computer users have the right to gain free control over the software they use.
+I support the Free Software Movement, 
+I believe that computer users have the right to gain free control over the software they use.
 
 Specialized langs
 -----------------
